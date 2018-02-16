@@ -1,0 +1,7 @@
+addons:
+  apt:
+    packages:
+      - augeas-tools
+cache:
+  apt: true
+script: echo test

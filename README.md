@@ -1,1 +1,1 @@
-# hocon-augeas-lens
+# hocon-augeas-lens [![Build Status](https://travis-ci.org/jansyk13/hocon-augeas-lens.svg?branch=master)](https://travis-ci.org/jansyk13/hocon-augeas-lens)
