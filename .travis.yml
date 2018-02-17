@@ -4,4 +4,4 @@ addons:
       - augeas-tools
 cache:
   apt: true
-script: augparse tests/test_hocon.aug -I augeas
+script: ./test.sh
